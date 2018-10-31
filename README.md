@@ -30,7 +30,7 @@ If I don’t bring it up or mention it, I’d truly love it if you would reach o
 ### In what medium (Slack, email, in person, etc.) do you prefer to receive feedback?
 In person > Zoom > Phone > Slack > Email.
 
-### When do you prefer to receive feedback? (Routine like in 1:1s, or as-it-happens)
+### When do you prefer to receive feedback? (routine like in 1:1s, or as-it-happens)
 As it happens. Please don’t wait to bring it up if you can help it. A quick Zoom or Slack message is much preferred to waiting until the next time we meet. It will help me internalize the feedback and focus on the specific action (or inaction) at hand. 
 
 ### How do you prefer to receive praise? (Public or private)
@@ -52,7 +52,7 @@ Please speak up whenever you’re feeling challenged, stressed, anxious, unclear
 
 Challenge my ideas directly and openly. Tell me when I’m wrong – it happens a lot. I understand this will feel uncomfortable at first, but I’ll do my best to let you know how much it’s appreciated in the moment. 
 
-### hat do you need from your peers? (outside the team)
+### What do you need from your peers? (outside the team)
 Help surface problems or challenges you think myself or my team may be able to help you with. 
 
 Be open to having ideas challenged and debated. Design in particular is about solving problems. To be effective, that often means asking lots of questions to form a strong understanding first.
