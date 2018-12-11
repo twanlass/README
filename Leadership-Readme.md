@@ -11,7 +11,7 @@ I believe in setting clear goals and expectations with you so that we never have
 
 ## My answers to our first 1:1 questions <sup>[1](https://larahogan.me/blog/first-one-on-one-questions/)</sup>
 
-What makes you grumpy?
+### What makes you grumpy?
 It may sound silly, but at the the root of many things that make me grumpy is inefficiency (see the note on my index card below about pragmatism and Ask vs Guess culture). 
 
 **For example:**
