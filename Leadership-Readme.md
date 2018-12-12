@@ -53,7 +53,7 @@ Please speak up whenever you’re feeling challenged, stressed, anxious, unclear
 Challenge my ideas directly and openly. Tell me when I’m wrong – it happens a lot. I understand this will feel uncomfortable at first, but I’ll do my best to let you know how much it’s appreciated in the moment. 
 
 ### What do you need from your peers? (outside the team)
-Help surface problems or challenges you think myself or my team may be able to help you with. 
+Help surface problems or challenges you think myself or our Design team may be able to help you with. 
 
 Be open to having ideas challenged and debated. Design in particular is about solving problems. To be effective, that often means asking lots of questions to form a strong understanding first.
 
