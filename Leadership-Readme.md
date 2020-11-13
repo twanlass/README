@@ -57,7 +57,7 @@ Help surface problems or challenges you think myself or our Design team may be a
 
 Be open to having ideas challenged and debated. Design in particular is about solving problems. To be effective, that often means asking lots of questions to form a strong understanding first.
 
-Involve Design as early in the process as you can. I promise we’ll work hard to avoid adding any stop energy to your project or initiative. 
+Involve Design as early in the process as you can. I promise we’ll work hard to avoid adding any [stop energy](https://stories.buffer.com/forward-motion-stop-energy-at-startups-c01624b7989) to your project or initiative. 
 
 
 ## My expectations of folks who report to me
