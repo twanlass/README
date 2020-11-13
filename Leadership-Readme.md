@@ -100,4 +100,4 @@ Can I share my cheat sheet with you?
 - I respect those that challenge my ideas openly and directly.
 - I believe in reasoning from [first principles](https://jamesclear.com/first-principles). 
 - I’m firmly on the Ask end of [Ask vs Guess culture](https://slackhq.com/ask-vs-guess-culture-in-the-office) spectrum. 
-- Want to go even deeper? I’m currently an [ENTJ](https://www.16personalities.com/entj-personality). 
+- Want to go even deeper? I’m currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7). 
