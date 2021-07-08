@@ -85,19 +85,14 @@ Involve Design as early in the process as you can. I promise we’ll work hard t
 
 
 ## About me (and my cheat sheet…)
+Here's largely how I view the world boiled down into a few bullet points. No, it's not complete or all encompassing, but I hope it gives a foundation to start our new relationship from. 
 
-What if our friends, partners or bosses gave us a cheat sheet of their most basic principles, ideals or values at the start of our relationship? 
-
-Not so we could make a snap judgment about them, but so that we’d have a clear understanding of how they operate and see the world. So that we could start our new relationship by taking a shared step in the right direction (instead of guessing or learning through trial and error). 
-
-Can I share my cheat sheet with you? 
-
-**Here it is:**
-
-- I’m a pragmatist in the purest sense. 
+- I default to trust. 
+- I value relationships over transactions. 
+- I’m a pragmatist in the purest sense.
 - I often seek forgiveness instead of asking for permission. 
 - I have many [strong opinions, weakly held](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/). 
 - I respect those that challenge my ideas openly and directly.
 - I believe in reasoning from [first principles](https://jamesclear.com/first-principles). 
 - I’m firmly on the Ask end of [Ask vs Guess culture](https://slackhq.com/ask-vs-guess-culture-in-the-office) spectrum. 
-- Want to go even deeper? I’m currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7). 
+- I’m currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7). 
