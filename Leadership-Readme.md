@@ -53,12 +53,12 @@ Public!
 **I expect you to:**
 
 - Invest in our 1:1s. Be prepared each week and give them your full attention and focus.
-- Challenge my ideas directly and openly. Tell me when I’m wrong – it happens a lot. Yes, I’m repeating myself here because I think it’s that important. 
-- Practice [disagreeing and committing](https://en.wikipedia.org/wiki/Disagree_and_commit).
+- Challenge my ideas directly and openly. Tell me when I’m wrong – it happens a lot.
+- Practice [disagreeing, sharing, and committing](https://en.wikipedia.org/wiki/Disagree_and_commit). Don't skip the _sharing_ part. 
 - Never stop learning and honing your craft. This includes design _and_ communication. 
 - Understand how the work we do supports our customer’s and our comapny's goals.
 - Speak up whenever something feels off.
-- Leave your ego at the door and separate your ideas from yourself.
+- Try to leave your ego at the door and separate your ideas from yourself / identity as as designer.
 
 
 ## What you can expect of me as your manager
@@ -67,7 +67,7 @@ Public!
 
 - Weekly 1:1s with me. I think this time is incredibly valuable and I’ll aim to never miss one. 
 - Clarity around purpose and goals so it’s always clear what’s expected of you and what good performance looks like. 
-- No surprises. I’ll let you know when you’re doing well and when there’s room to improve. I’ll do this regularly, and not just once or twice a year in a review. 
+- No surprises. I’ll let you know when you’re doing well and when there’s room to improve. I’ll do this regularly, and not just once or twice a year in a perf review. 
 - I will challenge you to grow and do the best work of your career and work hard to build an environment that makes that possible. 
 - I promise to deeply invest in your success and do everything I can to unlock opportunities for you here _and_ wherever you head next. 
 
@@ -80,6 +80,6 @@ Here's largely how I view the world boiled down into a few bullet points. No, it
 - I seek forgiveness over asking for permission. 
 - I have many [strong opinions, weakly held](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/). 
 - I respect those that challenge my ideas openly and directly.
-- I believe in reasoning from [first principles](https://jamesclear.com/first-principles). 
+- I believe in reasoning empirically and from [first principles](https://jamesclear.com/first-principles).
 - I’m on the Ask end of [Ask vs Guess culture](https://slackhq.com/ask-vs-guess-culture-in-the-office) spectrum. 
 - I’m currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7). 
