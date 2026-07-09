@@ -4,7 +4,7 @@
 
 My ultimate goal is to help you unlock the potential you already have inside; to bring clarity and context to the work we're doing. 
 
-I'll invest heavily in our relationship to build trust. I'll move between giving you the guidance and feedback you need to grow and giving you the space and autonomy you'll need to execute and do the best work of your career.
+I'll invest heavily in our relationship to build trust (I _default_ to trust). I'll move between giving you the guidance and feedback you need to grow and giving you the space and autonomy you'll need to execute and do the best work of your career.
 
 I believe in setting clear goals and expectations with you so that we never have to guess on where we stand or how we're doing. I'll ask lots of questions (sometimes tough questions) to help us trigger reflection.
 
@@ -21,7 +21,7 @@ It's fine to do something because that's how it's been done or that's how Compan
 I want the people on my team to sweat the details. Your internal bar should be higher than those around you.
 
 ### How will someone else know when you're grumpy?
-I've been told [I wear my emotions on my sleeve](https://idioms.thefreedictionary.com/wear+on+sleeve). If we're in a group setting I'll contribute less or be a little more withdrawn (I'm working on this). If we're on a 1:1, I'll be direct though and let you know I'm grumpy. 🙂 
+I've been told [I wear my emotions on my sleeve](https://idioms.thefreedictionary.com/wear+on+sleeve). If we're in a group setting I'll contribute less or be more withdrawn (I'm working on this, but please call me out). If we're on a 1:1, I'll be direct though and let you know I'm grumpy. 🙂 
 
 ### How can someone else help you when you're grumpy?
 If I don't bring it up or mention it, I'd truly love it if you'd say something. Tackling the issue head on with a nudge or thoughtful conversation usually helps. 
@@ -31,21 +31,23 @@ I love feedback. It's a gift. When receiving it, my preference in order of mediu
 In person > Zoom > Phone > Slack > Email. 
 
 ### When do you prefer to receive feedback? (routine like in 1:1s, or as-it-happens)
-As it happens. Please don't wait to bring it up if you can help it. A quick Zoom or Slack message is much preferred to waiting until the next time we meet. It will help me internalize the feedback and focus on the specific action (or inaction) at hand. 
+As it happens. Please don't wait to bring it up if you can help it. A quick Zoom or Slack message is much preferred to waiting until the next time we meet. It will help me internalize the feedback and focus on the specific action (or inaction) at hand.
 
 ### How do you prefer to receive praise? (Public or private)
-Public! 
+Public! I have a bad habit of dodging praise. I'm working on just saying "thank you". 
 
 ### What makes 1:1s the most valuable for you?
-1:1's are most valuable for me when you take an active role in them. Treat this like your meeting. Use our time together to surface challenges you're facing, be open and honest about how you're doing, where you need help, and where you want to go. 
+1:1's are most valuable for me when you take an active role in them. Treat this like your meeting. Use our time together to surface challenges you're facing, be open and honest about how you're doing, where you need help, and where you want to go. Yes, we can dive into the work during this time too. 
 
 ### What are your work goals for the next 3 months? Next 12 months? 
-**Short term: **
-- ...
+**Short term:**
+- Build trust with my teams
+- Understand our product areas deeply
+- Get into the weeds on some real work
+- Figure out what our team + Stripe most needs from me
 
-**Longer term: **
-- ...
-
+**Longer term:**
+- We'll see what I learn in my first 3 months. Check back soon ☎️. 
 
 
 ## My expectations of folks who report to me
@@ -53,6 +55,7 @@ Public!
 **I expect you to:**
 
 - Invest in our 1:1s. Be prepared each week and give them your full attention and focus.
+- Overcommunicate on where you're at with your work, what blockers you have, and where you need support.
 - Challenge my ideas directly and openly. Tell me when I'm wrong – it happens a lot.
 - Practice [disagreeing, sharing, and committing](https://en.wikipedia.org/wiki/Disagree_and_commit). Don't skip the _sharing_ part. 
 - Never stop learning and honing your craft. This includes design _and_ communication. 
@@ -83,3 +86,8 @@ Here's largely how I view the world boiled down into a few bullet points. No, it
 - I believe in reasoning empirically and from [first principles](https://jamesclear.com/first-principles).
 - I'm on the Ask end of [Ask vs Guess culture](https://slackhq.com/ask-vs-guess-culture-in-the-office) spectrum. 
 - I'm currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7).
+- Links are my [love language](https://en.wikipedia.org/wiki/The_Five_Love_Languages), especially when added to our 1:1 docs. 
+- I like to use [flashtags](https://www.onstartups.com/flashtags-a-simple-hack-for-conveying-context-without-confusion), #fyi in particular.
+- I often use [the tilde (~)](https://tyler.cv/notes/2023-12-30-tilde/) to move quickly. It's my way of saying "yes, I know there's a shit-ton more to it, but let's dive in later".
+- I'm a builder at heart who leans / skews towards Product. 
+- See more of my [personal principles](https://tyler.cv/principles/).
