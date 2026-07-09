@@ -55,6 +55,7 @@ Public! I have a bad habit of dodging praise. I'm working on just saying "thank 
 **I expect you to:**
 
 - Invest in our 1:1s. Be prepared each week and give them your full attention and focus.
+- Bring you whole self. I value getting to know the you outside of work just as much. 
 - Overcommunicate on where you're at with your work, what blockers you have, and where you need support.
 - Challenge my ideas directly and openly. Tell me when I'm wrong – it happens a lot.
 - Practice [disagreeing, sharing, and committing](https://en.wikipedia.org/wiki/Disagree_and_commit). Don't skip the _sharing_ part. 
@@ -85,9 +86,9 @@ Here's largely how I view the world boiled down into a few bullet points. No, it
 - I respect those that challenge my ideas openly and directly.
 - I believe in reasoning empirically and from [first principles](https://jamesclear.com/first-principles).
 - I'm on the Ask end of [Ask vs Guess culture](https://slackhq.com/ask-vs-guess-culture-in-the-office) spectrum. 
-- I'm currently an [ENTJ](https://www.16personalities.com/entj-personality) and an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7).
+- I'm currently an [ENTJ](https://www.16personalities.com/entj-personality), an [Enneagram 7, wing 8](https://www.enneagraminstitute.com/type-7), and a [DiSC `iD`](https://www.everythingdisc.com/what-is-disc/)
 - Links are my [love language](https://en.wikipedia.org/wiki/The_Five_Love_Languages), especially when added to our 1:1 docs. 
 - I like to use [flashtags](https://www.onstartups.com/flashtags-a-simple-hack-for-conveying-context-without-confusion), #fyi in particular.
 - I often use [the tilde (~)](https://tyler.cv/notes/2023-12-30-tilde/) to move quickly. It's my way of saying "yes, I know there's a shit-ton more to it, but let's dive in later".
-- I'm a builder at heart who leans / skews towards Product. 
+- I'm a builder at heart who leans Product. 
 - See more of my [personal principles](https://tyler.cv/principles/).
